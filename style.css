@@ -1,0 +1,64 @@
+
+    .contaner-fluid
+    {
+
+        background-color: #f1f1f1;
+    }
+    h3{
+        color: orangered;
+    }
+    button
+    {
+        margin-top: 76px;
+        color: tomato;
+        font-style: oblique;
+        font-size: 40px;
+        font-family: fantasy;
+        border-radius: 50px;
+        border: 2px solid orangered;
+    }
+    nav{
+        background-color: blue;
+    }
+   nav ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+   }
+   nav ul li
+   {
+padding: 20px;
+   } 
+ a{
+color: white;
+display: inline;
+display: contents;
+   }
+    nav ul li:hover
+   {
+    /* color: red; */
+    border-radius: 10px;
+    border: 1px solid black;
+    font-family: monospace;
+    background-color: orangered;
+
+   }
+   .img1{
+    background-image: url(Image-1.jpg);
+    min-height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   }
+   .form{
+    background-image: url(image2.jpeg);
+    min-height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   }
+   .form1
+   {
+    background-color: orangered;
+   }
+    
